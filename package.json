@@ -1,6 +1,6 @@
 {
   "name": "iconad",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Utility for Android and iOS icon creation",
   "main": "./iconad.js",
   "bin": {

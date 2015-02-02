@@ -100,6 +100,10 @@ function createIOSIcons(image, output_folder, callback) {
         {
             "size": 152,
             "name": "Icon-152.png"
+        },
+        {
+            "size": 180,
+            "name": "Icon-180.png"
         }
     ];
     produceIcons(image, output_folder, sizes, callback);
