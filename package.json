@@ -1,13 +1,13 @@
 {
   "name": "iconad",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Utility for Android and iOS icon creation",
-  "main": "iconad.js",
+  "main": "./iconad.js",
+  "bin": {
+    "iconad": "./bin/iconad"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "bin": {
-    "iconad": "./index.js"
   },
   "repository": {
     "type": "git",
